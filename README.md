@@ -19,9 +19,6 @@ I am Linuzb and I am currently Learning Kubernetes and Deeplearning!
 - 🛠 Kubernetes, Go
 - ⛏ Deeplearning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuzb&layout=compact)](https://github.com/linuzb/github-readme-stats)
-
-
 #### 🔨 Coding Activities
 
 [![Contributions Badge](https://badges.strrl.dev/contributions/all/linuzb?style=flat-square)](https://github.com/linuzb)
