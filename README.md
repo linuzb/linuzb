@@ -10,9 +10,12 @@
 
 Welcome to my Github page! 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/linuzb/count.svg) vistor.
-
 I am Linuzb and I am currently Learning Kubernetes and Deeplearning!  
+
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=linuzb&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuzb&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
 
 ### Tech Stack
 
@@ -25,9 +28,6 @@ I am Linuzb and I am currently Learning Kubernetes and Deeplearning!
 [![Contributions Badge](https://badges.strrl.dev/contributions/weekly/linuzb?style=flat-square)](https://github.com/linuzb)
 [![Commits Badge](https://badges.strrl.dev/commits/weekly/linuzb?style=flat-square)](https://github.com/linuzb)
 [![Issues and PRs Badge](https://badges.strrl.dev/issues-and-prs/weekly/linuzb?style=flat-square)](https://github.com/linuzb)
-
-![Linuzb's GitHub stats](https://github-readme-stats.vercel.app/api?username=linuzb&show_icons=true&theme=tokyonight)
-
 
 
 If you want to know more, please refer to the my [website](https://linuzb.github.io).
